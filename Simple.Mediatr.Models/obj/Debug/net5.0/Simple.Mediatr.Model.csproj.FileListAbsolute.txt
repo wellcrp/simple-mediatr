@@ -1,0 +1,12 @@
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Models\bin\Debug\net5.0\Simple.Mediatr.Model.deps.json
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Models\bin\Debug\net5.0\Simple.Mediatr.Model.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Models\bin\Debug\net5.0\ref\Simple.Mediatr.Model.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Models\bin\Debug\net5.0\Simple.Mediatr.Model.pdb
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Models\obj\Debug\net5.0\Simple.Mediatr.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Models\obj\Debug\net5.0\Simple.Mediatr.Model.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Models\obj\Debug\net5.0\Simple.Mediatr.Model.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Models\obj\Debug\net5.0\Simple.Mediatr.Model.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Models\obj\Debug\net5.0\Simple.Mediatr.Model.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Models\obj\Debug\net5.0\ref\Simple.Mediatr.Model.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Models\obj\Debug\net5.0\Simple.Mediatr.Model.pdb
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Models\obj\Debug\net5.0\Simple.Mediatr.Model.csproj.AssemblyReference.cache

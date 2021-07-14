@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQRICWaqhMqW8/BwWfxYjD0IO+P+SdukYR3U65eQI1c+MQ4uI7DJqC6TE3qpLub6KlIykHz7CVJB9B1qBhb2lQ==",
+  "success": true,
+  "projectFilePath": "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Models\\Simple.Mediatr.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\well_\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\well_\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

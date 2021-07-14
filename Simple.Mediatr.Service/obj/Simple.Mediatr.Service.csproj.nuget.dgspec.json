@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Service\\Simple.Mediatr.Service.csproj": {}
+  },
+  "projects": {
+    "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Models\\Simple.Mediatr.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Models\\Simple.Mediatr.Model.csproj",
+        "projectName": "Simple.Mediatr.Model",
+        "projectPath": "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Models\\Simple.Mediatr.Model.csproj",
+        "packagesPath": "C:\\Users\\well_\\.nuget\\packages\\",
+        "outputPath": "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\well_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Repository\\Simple.Mediatr.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Repository\\Simple.Mediatr.Repository.csproj",
+        "projectName": "Simple.Mediatr.Repository",
+        "projectPath": "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Repository\\Simple.Mediatr.Repository.csproj",
+        "packagesPath": "C:\\Users\\well_\\.nuget\\packages\\",
+        "outputPath": "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\well_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Models\\Simple.Mediatr.Model.csproj": {
+                "projectPath": "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Models\\Simple.Mediatr.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Service\\Simple.Mediatr.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Service\\Simple.Mediatr.Service.csproj",
+        "projectName": "Simple.Mediatr.Service",
+        "projectPath": "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Service\\Simple.Mediatr.Service.csproj",
+        "packagesPath": "C:\\Users\\well_\\.nuget\\packages\\",
+        "outputPath": "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\well_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Repository\\Simple.Mediatr.Repository.csproj": {
+                "projectPath": "E:\\CodeBox\\Project-Estudos\\C#\\A11-Mediatr\\Simple.Mediatr\\Simple.Mediatr.Repository\\Simple.Mediatr.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

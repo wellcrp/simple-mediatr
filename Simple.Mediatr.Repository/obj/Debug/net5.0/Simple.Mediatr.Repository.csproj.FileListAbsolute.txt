@@ -1,0 +1,15 @@
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\bin\Debug\net5.0\Simple.Mediatr.Repository.deps.json
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\bin\Debug\net5.0\Simple.Mediatr.Repository.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\bin\Debug\net5.0\ref\Simple.Mediatr.Repository.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\bin\Debug\net5.0\Simple.Mediatr.Repository.pdb
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\bin\Debug\net5.0\Simple.Mediatr.Model.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\bin\Debug\net5.0\Simple.Mediatr.Model.pdb
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\obj\Debug\net5.0\Simple.Mediatr.Repository.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\obj\Debug\net5.0\Simple.Mediatr.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\obj\Debug\net5.0\Simple.Mediatr.Repository.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\obj\Debug\net5.0\Simple.Mediatr.Repository.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\obj\Debug\net5.0\Simple.Mediatr.Repository.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\obj\Debug\net5.0\Simple.Mediatr.Repository.csproj.CopyComplete
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\obj\Debug\net5.0\Simple.Mediatr.Repository.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\obj\Debug\net5.0\ref\Simple.Mediatr.Repository.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Repository\obj\Debug\net5.0\Simple.Mediatr.Repository.pdb

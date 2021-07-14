@@ -1,0 +1,17 @@
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\bin\Debug\net5.0\Simple.Mediatr.Service.deps.json
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\bin\Debug\net5.0\Simple.Mediatr.Service.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\bin\Debug\net5.0\ref\Simple.Mediatr.Service.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\bin\Debug\net5.0\Simple.Mediatr.Service.pdb
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\obj\Debug\net5.0\Simple.Mediatr.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\obj\Debug\net5.0\Simple.Mediatr.Service.AssemblyInfoInputs.cache
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\obj\Debug\net5.0\Simple.Mediatr.Service.AssemblyInfo.cs
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\obj\Debug\net5.0\Simple.Mediatr.Service.csproj.CoreCompileInputs.cache
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\obj\Debug\net5.0\Simple.Mediatr.Service.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\obj\Debug\net5.0\ref\Simple.Mediatr.Service.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\obj\Debug\net5.0\Simple.Mediatr.Service.pdb
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\obj\Debug\net5.0\Simple.Mediatr.Service.csproj.AssemblyReference.cache
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\bin\Debug\net5.0\Simple.Mediatr.Model.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\bin\Debug\net5.0\Simple.Mediatr.Repository.dll
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\bin\Debug\net5.0\Simple.Mediatr.Repository.pdb
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\bin\Debug\net5.0\Simple.Mediatr.Model.pdb
+E:\CodeBox\Project-Estudos\C#\A11-Mediatr\Simple.Mediatr\Simple.Mediatr.Service\obj\Debug\net5.0\Simple.Mediatr.Service.csproj.CopyComplete
