@@ -1,4 +1,4 @@
-# Desenvolvimento simples utilizando C# Core 5. 
+# Desenvolvimento simples utilizando C# .NET 5 
 <small> Idéia principal é implementar (Famoso CRUD) objeto pessoa em dictionary </small>
  
  <strong> Conceitos como: </strong> 
